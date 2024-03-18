@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Güney</h1>
-<h3 align="center">On GitHub, I share my work in DevSecOps, Application Security, and Security Engineering, providing comprehensive content for those seeking to learn. Follow me for the latest insights and best practices in these areas!</h3>
+<h3 align="center">On GitHub, I share my work in DevSecOps, Application Security, Ethical Hacking and Security Engineering, providing comprehensive content for those seeking to learn. Follow me for the latest insights and best practices in these areas!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guneyimben&label=Profile%20views&color=0e75b6&style=flat" alt="guneyimben" /> </p>
 
